@@ -1,0 +1,33 @@
+body{
+    font-family:arial;
+    
+}
+h4{
+    text-align:center;
+}
+/* #fname, #lname */
+input[type=text],select{
+    width:100%;
+    padding:6px,10px;
+    margin:8px, 0px;
+    border:1px solid black;
+ 
+}
+div{
+    border-radius:4px;
+    background-color: rgb(190, 188, 188);
+    padding:20px;
+}
+input[type=submit]{
+    width:100%;
+    background-color:green;
+    color:white;
+    padding: 14px, 20px;
+    border:none;
+    cursor:pointer;
+
+    margin-top:10px;
+}
+label{
+    color:white;
+}
